@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Git commit on main
-=======
 this is just a practice run of the first commit 
->>>>>>> 940c065 (Initial commit)
